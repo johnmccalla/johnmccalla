@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm John
 
-I have a day job as a software manager at [@dialoguemd](https://github.com/dialoguemd),
-where we're building the premier Canadian tele-medicine platform (we probably have open
-software development positions right now if that sounds like something you'd enjoy, see
-[our career page](https://www.dialogue.co/en/careers) for details).
+I'm currently working on my next day job venture that's still in strealth mode. More 
+on that soon(tm). 😁
 
 I also love working on hobbyist projects, most of which involve software in some way.
 This is what you'll find here on GitHub, although to be honest, developing "in public"
